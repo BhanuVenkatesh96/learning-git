@@ -1,0 +1,10 @@
+Azure Firewall Notes
+
+Features:
+- Network Rules
+- Application Rules
+- DNAT Rules
+
+Learning Notes:
+- Azure Firewall filters traffic.
+- Supports SNAT and DNAT.
