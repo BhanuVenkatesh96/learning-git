@@ -1,0 +1,6 @@
+Azure ExpressRoute
+
+Private connection to Azure
+Uses BGP routing
+Provides predictable performance
+Useful for enterprise connectivity
