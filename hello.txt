@@ -1,2 +1,3 @@
 Hello GitHub!
-This is my first file.
+My name is Bhanu.
+I am learning Git and GitHub.
