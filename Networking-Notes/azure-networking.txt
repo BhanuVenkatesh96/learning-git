@@ -1,0 +1,9 @@
+Azure Networking Notes
+
+VNet
+Subnet
+NSG
+Route Table
+VPN Gateway
+ExpressRoute
+Azure Firewall
