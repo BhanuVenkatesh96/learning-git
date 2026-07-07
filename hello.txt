@@ -1,3 +1,5 @@
-Hello GitHub!
+Hello GitHub
+
 My name is Bhanu.
-I am learning Git and GitHub.
+I am learning GitHub.
+I work as a Network Engineer.
